@@ -29,6 +29,18 @@ h3 {
 .Noticias {
     background-color: blue;
 }
+.futbol {
+    border: 6px outset yellow;
+    background-image: url(../images/futbol.jpg);
+}
+.basquet {
+    border: 6px outset yellow;
+    border-radius: 1px solid yellow;
+    margin: 10px;
+}
+.futfem {
+    border: 6px outset yellow;
+}
 
 iframe {
     background-image: url(../images/cancha.jpg);
