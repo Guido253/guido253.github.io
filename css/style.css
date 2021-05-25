@@ -8,6 +8,10 @@ h2 {
     font-weight: bold;
 }
 
+.container-fluid {
+    background-color: #0a0238;
+}
+
 h3 {
     color: ##00008B;
     font-size: 25px;
