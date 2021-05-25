@@ -40,17 +40,20 @@ h3 {
     border: 12px solid yellow;
     margin: 10px;
     width: 950px;
+    height: 300px;
 }
 
 .basquet {
     border: 12px solid yellow;
     margin: 10px;
     width: 950px;
+    height: 300px;
 }
 
 .futfem {
     border: 12px solid yellow;
     width: 950px;
+    height: 300px;
 }
 
 iframe {
