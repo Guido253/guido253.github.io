@@ -132,3 +132,9 @@ body {
     font-size: 20px;
     font-weight: bold;
 }
+
+.audio {
+    background-color: #0a0238;
+    font-size: 20px;
+    font-family: cursive;
+}
